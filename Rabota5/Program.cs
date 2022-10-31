@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+﻿//Console.WriteLine("Hello, World!");
 Console.Write("Введите трехзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 num /= 10;
